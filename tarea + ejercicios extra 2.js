@@ -149,34 +149,3 @@ function palindromeame(str) {
 console.log(palindromeame("ANITA LAVA LA TINA"))
 
 
-
-​
-/* 
-    - Comentarios adicionales -
-​
-    Como habrá notado, la tarea de esta clase ha escalado considerablemente en dificultad. Son
-    pocos los ejercicios que podrán hacer sin al menos investigar algún concepto o algún método.
-    ¿Por qué sucede esto?
-    Por que en programación, cada nueva aplicación, cada nueva website, cada nuevo proyecto que
-    hagan les va a demandar conocimientos que no tienen, métodos que nunca usaron y hasta capaz
-    ni conocen, librerías que jamás usaron y capaz jamas escucharon nombrar, mucha documentación,
-    etc.
-    Por este motivo, considero importante empezar a entrenarlos un poco en el arte de investigar.
-​
-    Se que esta tarea les va a llevar mas tiempo que las anteriores, y se que muchos capaz no
-    tengan el tiempo necesario para resolverla toda, pero no importa, resuelvan hasta donde
-    puedan, lo importante es que se lancen a la cacería de información.
-    Y si algún ejercicio no les sale, cuando me envien la tarea manden igual esos ejercicios
-    hasta donde los tengan por que tal vez pueda darles alguna pista de como avanzar.
-​
-    Prefiero que empiecen a golpearse un poquitito la cabeza ahora a que resuelvan todo así 
-    nomás y que, cuando tengan que resolver con el tiempo ajustado en alguna empresa, no tengan
-    esta habilidad autodidacta de investigación desarrollada.
-​
-    Confíen en mi, va a valer la pena.
-​
-    Ahora sin más, los dejo trabajar tranquilos. 
-​
-    A seguir con ese entusiasmo que esta es la última clase de Tipos de Datos compuestos y ya
-    nos metemos en el mundo de la Asincronía!!
-*/
